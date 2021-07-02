@@ -10,7 +10,6 @@
 1. git clone https://github.com/mahmoudashraf1344/ZCryptr.git
 2. chmod -R 777 /root/ZCryptr
 3. cp /root/file-to-encrypt /root/ZCryptr
-
 ```
 
 **Usage**
